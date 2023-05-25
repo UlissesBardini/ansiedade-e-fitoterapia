@@ -1,0 +1,37 @@
+img {
+	text-align: center;
+	width: 100%;
+}
+		
+button {
+	width: 33.33%;
+	border: none;
+	margin: none;
+	outline: none;
+	padding: 10px 0px;
+	color: #000;
+	float: left;
+	cursor: pointer;
+	background-color: #D8E6C5;
+	font-family:sans-serif;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+}
+button:hover {
+	background-color: #8EC3A5;
+}
+hr {
+	margin: 0px;
+	padding: none;
+	outline: none;
+	color: #000;
+}
+.open {
+	display: block;
+	visibility: visible;
+}
+.closed {
+	display: none;
+	visibility: hidden;
+}
